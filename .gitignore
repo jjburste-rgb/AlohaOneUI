@@ -3,10 +3,11 @@
 out/*.apk
 out/*.idsig
 
-# 白名单：最近 5 个版本（当前上游共 3 个版本）
+# 白名单：最近 5 个版本（当前上游共 3 个版本 + 1 个本地修改版）
 !out/AlohaOneUI_1.0.261023.apk
 !out/AlohaOneUI_1.0.261023.1.apk
 !out/AlohaOneUI_1.0.261025.apk
+!out/AlohaOneUI_1.0.261025-mod.apk
 
 # ==================== 编辑器 / 系统 ====================
 .idea/
